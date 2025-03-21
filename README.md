@@ -26,3 +26,11 @@ This project uses a pose estimation model trained on [Teachable Machine](https:/
 
 ## 🗂️ Project Structure
 
+📌 Supported Poses
+
+🧍‍♂️ Mountain Pose
+🌲 Tree Pose
+🧘 Warrior Pose
+🐍 Cobra Pose
+➕ Add more during training!
+
